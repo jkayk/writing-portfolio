@@ -1,2 +1,3 @@
-# portfolio
-Welcome to my portfolio!
+# Portfolio
+
+Welcome to Jireh's technical writing portfolio!
